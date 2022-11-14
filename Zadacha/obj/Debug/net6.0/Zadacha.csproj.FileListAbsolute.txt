@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#_Control_Work/Zadacha/bin/Debug/net6.0/Zadacha
+/Users/julia/Desktop/C#_Control_Work/Zadacha/bin/Debug/net6.0/Zadacha.deps.json
+/Users/julia/Desktop/C#_Control_Work/Zadacha/bin/Debug/net6.0/Zadacha.runtimeconfig.json
+/Users/julia/Desktop/C#_Control_Work/Zadacha/bin/Debug/net6.0/Zadacha.dll
+/Users/julia/Desktop/C#_Control_Work/Zadacha/bin/Debug/net6.0/Zadacha.pdb
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.AssemblyInfo.cs
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.dll
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/refint/Zadacha.dll
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.pdb
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/Zadacha.genruntimeconfig.cache
+/Users/julia/Desktop/C#_Control_Work/Zadacha/obj/Debug/net6.0/ref/Zadacha.dll
